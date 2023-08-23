@@ -9,7 +9,6 @@ buildscript {
     repositories {
         google()
         maven { url "https://plugins.gradle.org/m2/" }
-        maven { url "https://github.com/taplytics/Taplytics-Android-SDK/raw/master/AndroidStudio/" }
         mavenCentral()
     }
 
